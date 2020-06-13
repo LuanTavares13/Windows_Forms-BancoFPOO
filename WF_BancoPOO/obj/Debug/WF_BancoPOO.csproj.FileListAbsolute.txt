@@ -1,0 +1,18 @@
+C:\Users\PC\Documents\Atila\1S 2020\WF_BancoPOO\WF_BancoPOO\bin\Debug\WF_BancoPOO.exe.config
+C:\Users\PC\Documents\Atila\1S 2020\WF_BancoPOO\WF_BancoPOO\bin\Debug\WF_BancoPOO.exe
+C:\Users\PC\Documents\Atila\1S 2020\WF_BancoPOO\WF_BancoPOO\bin\Debug\WF_BancoPOO.pdb
+C:\Users\PC\Documents\Atila\1S 2020\WF_BancoPOO\WF_BancoPOO\obj\Debug\WF_BancoPOO.Form1.resources
+C:\Users\PC\Documents\Atila\1S 2020\WF_BancoPOO\WF_BancoPOO\obj\Debug\WF_BancoPOO.Properties.Resources.resources
+C:\Users\PC\Documents\Atila\1S 2020\WF_BancoPOO\WF_BancoPOO\obj\Debug\WF_BancoPOO.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Atila\1S 2020\WF_BancoPOO\WF_BancoPOO\obj\Debug\WF_BancoPOO.exe
+C:\Users\PC\Documents\Atila\1S 2020\WF_BancoPOO\WF_BancoPOO\obj\Debug\WF_BancoPOO.pdb
+C:\Users\Computador\Desktop\Luan SENAI\AULA DE FPOO\CONSOLES\WF_BancoPOO\WF_BancoPOO\bin\Debug\WF_BancoPOO.exe.config
+C:\Users\Computador\Desktop\Luan SENAI\AULA DE FPOO\CONSOLES\WF_BancoPOO\WF_BancoPOO\bin\Debug\WF_BancoPOO.exe
+C:\Users\Computador\Desktop\Luan SENAI\AULA DE FPOO\CONSOLES\WF_BancoPOO\WF_BancoPOO\bin\Debug\WF_BancoPOO.pdb
+C:\Users\Computador\Desktop\Luan SENAI\AULA DE FPOO\CONSOLES\WF_BancoPOO\WF_BancoPOO\obj\Debug\WF_BancoPOO.csprojAssemblyReference.cache
+C:\Users\Computador\Desktop\Luan SENAI\AULA DE FPOO\CONSOLES\WF_BancoPOO\WF_BancoPOO\obj\Debug\WF_BancoPOO.Form1.resources
+C:\Users\Computador\Desktop\Luan SENAI\AULA DE FPOO\CONSOLES\WF_BancoPOO\WF_BancoPOO\obj\Debug\WF_BancoPOO.Properties.Resources.resources
+C:\Users\Computador\Desktop\Luan SENAI\AULA DE FPOO\CONSOLES\WF_BancoPOO\WF_BancoPOO\obj\Debug\WF_BancoPOO.csproj.GenerateResource.cache
+C:\Users\Computador\Desktop\Luan SENAI\AULA DE FPOO\CONSOLES\WF_BancoPOO\WF_BancoPOO\obj\Debug\WF_BancoPOO.csproj.CoreCompileInputs.cache
+C:\Users\Computador\Desktop\Luan SENAI\AULA DE FPOO\CONSOLES\WF_BancoPOO\WF_BancoPOO\obj\Debug\WF_BancoPOO.exe
+C:\Users\Computador\Desktop\Luan SENAI\AULA DE FPOO\CONSOLES\WF_BancoPOO\WF_BancoPOO\obj\Debug\WF_BancoPOO.pdb
